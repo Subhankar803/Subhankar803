@@ -21,10 +21,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Subhankar803&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+### 📌 Top Repo
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=Subhankar803&repo=YOUR_TOP_REPO_NAME&theme=radical)](https://github.com/Subhankar803/YOUR_TOP_REPO_NAME)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Subhankar803&icon=0&color=13)](https://visitcount.itsvg.in)
+
+[![](https://komarev.com/ghpvc/?username=Subhankar803&color=0e75b6&style=flat-square)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
